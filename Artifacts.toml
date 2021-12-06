@@ -1,0 +1,252 @@
+[[Singular]]
+arch = "aarch64"
+git-tree-sha1 = "59670c13de21f470066946d365ab8f5afa38d42e"
+os = "macos"
+
+    [[Singular.download]]
+    sha256 = "902e0c126a9b48fd2158894cb2ed95c951c4a90c6227470a3a9dad387c466c9c"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.aarch64-apple-darwin.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf75b408dec53cbd34eb531c43f12801e15bfd3e"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "24edc0d2baf19548ca738d561aeee09bd24f87c5e2223f8e5dff7608ccfc1467"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.aarch64-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7db5978be0fa409e70800df7b5a586ac5b07a85"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "e6b850b269247f11b617255810c1198e56a101258835b92d74acbc2ac2a98726"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.aarch64-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3316fc787457be0998ef631533e9a90d881a1525"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "956d9f4615f127b0b193cb2280ae4a7ed733a23cefa194d0df9565033cb413ff"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.aarch64-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2eb6a3eb2cc3c2cec211baac9762fee5a1c5654"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "74bcae92994d22c730f257a26c45d8998faf210ab4fd830fdc4331c0bab7ba66"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.aarch64-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "12ad834b04f6b307f5d76464e52b745eecb9d7dc"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "bf53278133d43a1bbc21ea3b61ff4c2afae426a474793f7ec4abc33b95fbaea0"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e585f31936705d903ce4dd2b70ff72243d8a5e8"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "f722ed6bdedb44824f1e078b37ca83320deaeeca334e725f5248dbbd3c233993"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f62fd0b20ab5280c100a5ca179cfcdd546602b4"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "e4d22a1176c738d70f51bbb2e8d8e92d6239c9d3de13e6f0c7fdcceb92421623"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55d2f3b85e58623169f06a55dbe57f3d2ba515d4"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "4207665adabe5314d1fb2472fbce21d243275ffd78946834ab4b4ba639009556"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1fff46af2e68d1e3efa4b773462c9a222b0eb30c"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "7aa4cc0ee4cdcb3da0a9351ffc2a164af75670311b4de9486d8f4cf612af37e2"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1188f5ba47700cb2c3aea6787bcd2fc931f2919"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "cf667dc7b49a85bd93bee48c9b915064b7ee633d33fa364baa998445f2ebc98a"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae0824c6e99652c6de761704feff295075c8a6a2"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "4ebb2bda9e49e5fb110a373fcdde3403d5f5cf964a3a2020b9396b603e857a2f"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Singular]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "75358c73c0cf38aa6a1ac278aa5994e996a713a8"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "ed017ecfe110fe8b917c0bccff1ccb49df9d6e43d7cff41d4279477a5c77c37d"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c44fb8cdf5767c5e343cbbeeddeca6a23e44652b"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "6cb9547700c54e8f77a6caecbf69b3b75ef68ceb14234060702c72f776186a61"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.i686-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f161f80fb9c2c241f50475367dbd84b169a8916"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "bbe0fa5ee22e06a829a5b19553b33bd0c991ac22e20ba4d5c994f1e144a75321"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.i686-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a1a7e156fb3176e71bb8514d5709eefbe5a5c40"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "bfe3680e774096a1531e9fa2538894678d998193882cf8e7413494a2518339e1"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.i686-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c0e919bff40e8446fbd1ca234b5d43d12aa531d"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "64b2f2dd504ec29cc902425106d77c778b90108192460bcc5de970ba15326f3a"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.i686-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "505abc2ed86e76153d28c168a86d1a77ea47979b"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "e5a2e27d291ccfcf7544558fdecb82e643a2e9bb31e312ffab16dccbea1e41f7"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "746e678a2ab5a4a2df86e9ae712b38afea3e02a6"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "cb9e3ca2489d1ed1dff85b886718f71c07e0679b1bd44711d673dd662055a6da"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+git-tree-sha1 = "d62dc0eef8a1086dab64c2a81c4675a731347e93"
+os = "macos"
+
+    [[Singular.download]]
+    sha256 = "1a6ab013f26ce885b95f03873201376ddc346ca254986decae2a1c31db017530"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-apple-darwin.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b3b7dbec63a267f9a0342813379daea1883afef"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "ebcbddac27333c6f156287ba225b965fa1a4b197d59952874c5c75e720773ecb"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-linux-gnu-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2df1aa4b1ab5496f8e23c8a29e5d6414647ffa54"
+libc = "glibc"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "147045d6de7c8b5d9c54adee40b8e2d1a2b2692aa909ea5be283fb9dc6f298df"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-linux-gnu-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37244ffa148b82745c3c3b2be52381bbf31ed49d"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "84046b5192c9657a3fa7f27b004714e4ce1e072b4e5e82272d03f4f0c5771bc5"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-linux-musl-cxx03.tar.gz"
+[[Singular]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c20571714f007f8068c040bec3aa49bd2abd9e51"
+libc = "musl"
+os = "linux"
+
+    [[Singular.download]]
+    sha256 = "f87893131507abdc788638222ab06c905def67f7cc9243743e13468524019f7d"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-linux-musl-cxx11.tar.gz"
+[[Singular]]
+arch = "x86_64"
+git-tree-sha1 = "7d9464852e70e8a465123a5a802205057908b09a"
+os = "freebsd"
+
+    [[Singular.download]]
+    sha256 = "358cc5d5f52b34be50f3c1117f934a57dfd837b4e2c4c9490d58cf1fcb5e8e47"
+    url = "https://github.com/benlorenz/Singular_jll.jl/releases/download/Singular-v402.101.201+0/Singular.v402.101.201.x86_64-unknown-freebsd.tar.gz"
